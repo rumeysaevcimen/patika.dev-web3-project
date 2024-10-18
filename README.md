@@ -7,3 +7,6 @@ Bu proje **Motoko Playground IDE** ile oluşturulmuş bir Web3 projesidir. **Mot
 Projeyi **Motoko Playground IDE** üzerinden çevrimiçi olarak incelemek için bağlantıyı kullanabilirsiniz.
 
 [Proje Bağlantısı](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=253463657)
+
+## Kod Çıktıları
+Projedeki hesap makinesi kullanımı ve arayüzü **outputs" dosyası içinde bulabilirsiniz.
