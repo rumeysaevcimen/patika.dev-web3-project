@@ -9,4 +9,4 @@ Projeyi **Motoko Playground IDE** üzerinden çevrimiçi olarak incelemek için 
 [Proje Bağlantısı](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=253463657)
 
 ## Kod Çıktıları
-Projedeki hesap makinesi kullanımı ve arayüzü **outputs** dosyası içinde bulabilirsiniz.
+Projedeki hesap makinesi kodunun çıktılarını ve arayüzü **outputs** dosyası içinde bulabilirsiniz.
