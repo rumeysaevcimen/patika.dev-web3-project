@@ -1,7 +1,7 @@
 # Hesap Makinesi Projesi (Motoko)
 
 ## Proje Hakkında
-Bu proje **Motoko Playground IDE** ile oluşturulmuş bir Web3 projesidir. Çarpma, bölme, toplama ve çıkarma gibi temel hesap işlemlerini yapar. Ayrıca **Temizle()** fonksiyonu ile sonuç değeri sıfırlanabilir.
+Bu proje **Motoko Playground IDE** ile oluşturulmuş bir Web3 projesidir. **Motoko** dili kullanılarak yazılmıştır. Çarpma, bölme, toplama ve çıkarma gibi temel hesap işlemlerini yapar. Ayrıca **Temizle()** fonksiyonu ile sonuç değeri sıfırlanabilir.
 
 ## Proje Bağlantısı
 Projeyi **Motoko Playground IDE** üzerinden çevrimiçi olarak incelemek için bağlantıyı kullanabilirsiniz.
